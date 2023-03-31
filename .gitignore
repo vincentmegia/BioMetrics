@@ -1,0 +1,5 @@
+**/build
+**/Pods
+**/vendor
+**/.gradle
+**/node_modules
